@@ -1,0 +1,62 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#citation {
+    font-style: italic;
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+}
+
+#TitreASBL {
+    text-align: center;
+}
+
+#VideoYT {
+    display: block;
+    margin: auto;
+}
+
+#Bloc1 {
+    margin: 0 auto;
+    width: 50%;
+}
+
+
+.logo {
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    width: 100px;
+    height: 100px;
+
+}
+
+#Corps {
+    color: black;
+    background-color: white;
+    background-image: url(http://maisonmedicalehouba.be/wp-content/uploads/2017/02/fond-ecran-blanc-1024x640.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#association {
+    border: 3px black outset;
+    text-align: center;
+
+
+}
+
+#association>h3 {
+    margin-bottom: 1em;
+
+}
+
+
+.logos {
+    width: 10%;
+    margin-right: 8em;
+}
