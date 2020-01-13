@@ -1,0 +1,51 @@
+html {
+    font-size: 12px;
+    font-family: "Arial", Times, serif;
+    line-height: 150%;
+}
+
+body h1 {
+
+    font-size: 18px;
+    color: #980505 !important;
+}
+
+body h2 {
+    font-size: 14px;
+    color: #985a05 !important;
+}
+
+.CanardFuck {
+    width: 300px;
+    height: 300px;
+}
+
+.Canardgif {
+    width: 200px;
+    height: 200px;
+}
+
+.lienrouge {
+    color: red;
+}
+
+#lienbleu {
+    color: blue;
+}
+
+#PhraseCanard {
+    color: Red;
+}
+
+#PremierParagraphe {
+    font-weight: bold
+}
+
+#DeuxiemeParagraphe {
+    font-weight: bold
+}
+
+.Screen1 {
+    width: 200px;
+    height: 200px;
+}
